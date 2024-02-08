@@ -2,7 +2,7 @@
 <br>
 This project is a currency converter built using HTML, CSS, JavaScript, and an API to fetch currency codes and flags for respective countries.
 <br>
-<b>Features</b>
+<b>Features:</b>
 <ul>
   <li>Convert between different currencies using real-time exchange rates.</li>
   <li>View flags and currency codes for each country.</li>
